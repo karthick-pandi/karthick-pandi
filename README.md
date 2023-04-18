@@ -8,7 +8,7 @@ strong technical skills to the working environment.
 <hr>
 
 ## 🙋‍♀️👩‍🎓 About me...
-- 📖 Learning MERN stack .
+- 📖 Working MERN stack .
 - 👀 Keen to build and develop high-quality user-friendly platforms by using my technical knowledge and skills.
 - 👩‍ Eager to obtain a challenging position at a dynamic company to enhance my learning and contribute to exciting projects.
 - 👨‍💻 All of my projects are available at My <a href="https://objective-wescoff-4a6042.netlify.app/">Portfolio</a>
