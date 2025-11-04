@@ -1,5 +1,5 @@
 # Hi, I am Karthick,
-Aspiring full-Stack developer skilled in all aspects of front-end and 
+Working full-Stack developer skilled in all aspects of front-end and 
 MERN stack technologies. Looking forward to bringing creative and
 strong technical skills to the working environment.
  
